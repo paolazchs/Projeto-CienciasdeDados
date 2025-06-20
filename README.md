@@ -1,12 +1,12 @@
-#  Análise Estatística dos Dados de Vacinação no Brasil
+# 💉 Análise Estatística dos Dados de Vacinação no Brasil
 
-## 🎯 Objetivo
-
-Este projeto tem como objetivo aplicar os conceitos de Ciência de Dados com Python na análise estatística dos dados de vacinação no Brasil. Por meio de análises descritivas, exploratórias e gráficas, buscamos identificar padrões, tendências e possíveis correlações entre variáveis como estado, faixa etária e quantidade de doses aplicadas.
+Projeto desenvolvido no **Serviço Nacional de Aprendizagem Industrial (SENAI)** – Sorocaba (2025)  
+**Curso:** Ciências de Dados  
+**Professor:** André Souza
 
 ---
 
-## 👥 Integrantes do Grupo
+## 👥 Integrantes
 
 - Julio Coronetti Regino  
 - Murilo Antunes da Silva Galhardo de Carvalho  
@@ -14,70 +14,59 @@ Este projeto tem como objetivo aplicar os conceitos de Ciência de Dados com Pyt
 
 ---
 
-## 💻 Tecnologias e Bibliotecas Utilizadas
+## 🎯 Objetivo
 
-- Python 3.x  
-- pandas  
-- numpy  
-- matplotlib  
-- seaborn  
-- scipy  
-- statsmodels  
+Realizar uma análise estatística dos dados de vacinação no Brasil utilizando Python, com o objetivo de identificar padrões, tendências e desigualdades regionais, contribuindo para a compreensão da eficácia das campanhas de imunização no país.
 
 ---
 
+## 📊 Metodologia
+
+- **Base de dados:** OpenDataSUS – [🔗 Link](https://opendatasus.saude.gov.br/)
+- **Ferramenta:** Google Colab
+- **Linguagem:** Python  
+- **Bibliotecas:** pandas, numpy, matplotlib, seaborn, scipy, statsmodels
+- **Etapas:**  
+  - Coleta e limpeza de dados  
+  - Aplicação de análises estatísticas  
+  - Geração de gráficos e interpretações  
 
 ---
 
-## 🗄️ Base de Dados
+## 📈 Análises Realizadas
 
-- **Fonte:** OpenDataSUS - Ministério da Saúde  
-- **Link de Acesso à Base:** [🔗 Acessar base de dados]((https://opendatasus.saude.gov.br/))
-  
----
-
-## 🔍 Tópicos Estatísticos Aplicados
-
-- **Tipos de Amostragem:** Amostragem estratificada  
-- **Escalas de Medição:** Nominal, ordinal e razão  
-- **Medidas de Tendência Central:** Média, mediana e moda  
-- **Medidas de Dispersão:** Amplitude, desvio padrão e variância  
-- **Testes de Normalidade:** Shapiro-Wilk e Kolmogorov-Smirnov  
-- **Análise de Correlação:** Identificação de padrões entre estados, faixas etárias e doses aplicadas  
-- **Visualizações:**  
-  - Histogramas  
-  - Boxplots  
-  - Gráficos de dispersão  
-  - Curvas KDE  
+- **Tipos de Amostragem:** Aleatória, sistemática e estratificada  
+- **Escalas de Medição:** Nominal (região), ordinal (tipo de dose), razão (idade)  
+- **Tendência Central:** Média, mediana e moda das idades vacinadas  
+- **Dispersão:** Desvio padrão e variância  
+- **Testes de Normalidade:** Shapiro-Wilk  
+- **Visualizações:** Histogramas, boxplots, gráficos de dispersão e barras  
 
 ---
 
-## 📈 Visualizações Geradas
+## ✅ Conclusões
 
-- Distribuição de doses aplicadas por estado e faixa etária  
-- Comparação de doses com boxplots por estado e grupos etários  
-- Gráficos de dispersão destacando concentrações de vacinação  
-- Avaliação da normalidade dos dados com histogramas e curvas KDE  
-
----
-
-## ✅ Conclusão
-
-- Existem variações significativas na quantidade de doses aplicadas entre estados e faixas etárias.  
-- A análise revelou maior concentração de vacinação em estados como SP e RS, principalmente nas faixas etárias acima de 40 anos.  
-- Os dados apresentaram uma distribuição aproximadamente normal, o que permite a aplicação de testes estatísticos paramétricos.  
-- A amostragem estratificada garantiu equilíbrio entre os estados na análise, embora não represente proporcionalmente a população real.  
-- As ferramentas estatísticas aplicadas contribuíram para a geração de insights valiosos para entender a dinâmica da vacinação no país.  
+- A **amostragem estratificada** foi a mais eficaz para equilibrar as análises regionais.  
+- O entendimento correto das **escalas de medição** guiou o uso de testes apropriados.  
+- As **medidas de tendência e dispersão** revelaram o perfil demográfico das pessoas vacinadas.  
+- Os **testes de normalidade** orientaram a escolha entre métodos estatísticos paramétricos e não paramétricos.  
+- As **visualizações gráficas** evidenciaram desigualdades e padrões entre regiões e tipos de dose.
 
 ---
 
-## 📄 Relatório Técnico
+## 🔗 Código-Fonte
 
-O relatório detalhado, desenvolvido conforme as normas da **ABNT**, está disponível no seguinte link:  
-
-- 📑
-[projeto-cd.pdf](https://github.com/user-attachments/files/20843167/Documento.1.pdf)
+📎 [Acessar notebook no Google Colab](https://colab.research.google.com/drive/1JooB1tHEmtTjKN8keTVhk5W9Ck8YqyTr?usp=sharing)
 
 ---
+
+## 📚 Referências
+
+- Ministério da Saúde – Programa Nacional de Imunizações  
+- OpenDataSUS – Dados abertos do SUS  
+- Documentações oficiais: pandas, numpy, matplotlib, seaborn, scipy, statsmodels
+
+  ## Arquivo em PDF 
+📎 [Projeto-cd.pdf](https://github.com/user-attachments/files/20843716/Projeto-cd.pdf)
 
 
