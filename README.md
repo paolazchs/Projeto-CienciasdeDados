@@ -6,7 +6,7 @@ Projeto desenvolvido no **Serviço Nacional de Aprendizagem Industrial (SENAI)**
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 - Julio Coronetti Regino  
 - Murilo Antunes da Silva Galhardo de Carvalho  
@@ -20,7 +20,7 @@ Realizar uma análise estatística dos dados de vacinação no Brasil utilizando
 
 ---
 
-## 📊 Metodologia
+##  Metodologia
 
 - **Base de dados:** OpenDataSUS – [🔗 Link](https://opendatasus.saude.gov.br/)
 - **Ferramenta:** Google Colab
