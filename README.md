@@ -1,4 +1,4 @@
-# 💉 Análise Estatística dos Dados de Vacinação no Brasil
+#  Análise Estatística dos Dados de Vacinação no Brasil
 
 Projeto desenvolvido no **Serviço Nacional de Aprendizagem Industrial (SENAI)** – Sorocaba (2025)  
 **Curso:** Ciências de Dados  
@@ -14,7 +14,7 @@ Projeto desenvolvido no **Serviço Nacional de Aprendizagem Industrial (SENAI)**
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Realizar uma análise estatística dos dados de vacinação no Brasil utilizando Python, com o objetivo de identificar padrões, tendências e desigualdades regionais, contribuindo para a compreensão da eficácia das campanhas de imunização no país.
 
@@ -33,7 +33,7 @@ Realizar uma análise estatística dos dados de vacinação no Brasil utilizando
 
 ---
 
-## 📈 Análises Realizadas
+##  Análises Realizadas
 
 - **Tipos de Amostragem:** Aleatória, sistemática e estratificada  
 - **Escalas de Medição:** Nominal (região), ordinal (tipo de dose), razão (idade)  
@@ -44,7 +44,7 @@ Realizar uma análise estatística dos dados de vacinação no Brasil utilizando
 
 ---
 
-## ✅ Conclusões
+## Conclusões
 
 - A **amostragem estratificada** foi a mais eficaz para equilibrar as análises regionais.  
 - O entendimento correto das **escalas de medição** guiou o uso de testes apropriados.  
@@ -60,7 +60,7 @@ Realizar uma análise estatística dos dados de vacinação no Brasil utilizando
 
 ---
 
-## 📚 Referências
+## Referências
 
 - Ministério da Saúde – Programa Nacional de Imunizações  
 - OpenDataSUS – Dados abertos do SUS  
