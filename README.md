@@ -1,4 +1,4 @@
-# 🩺 Análise Estatística dos Dados de Vacinação no Brasil
+#  Análise Estatística dos Dados de Vacinação no Brasil
 
 ## 🎯 Objetivo
 
@@ -77,7 +77,8 @@ Este projeto tem como objetivo aplicar os conceitos de Ciência de Dados com Pyt
 
 O relatório detalhado, desenvolvido conforme as normas da **ABNT**, está disponível no seguinte link:  
 
-- 📑 [Download do Relatório PDF](COLE_AQUI_O_LINK_DO_PDF)
+- 📑
+[projeto-cd.pdf](https://github.com/user-attachments/files/20842898/projeto-cd.pdf)
 
 ---
 
@@ -86,6 +87,6 @@ O relatório detalhado, desenvolvido conforme as normas da **ABNT**, está dispo
 1. Faça o download deste repositório ou clone usando:  
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/paolazchs/Projeto-CienciasdeDados/tree/main
 
 
