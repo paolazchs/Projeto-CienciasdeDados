@@ -82,11 +82,4 @@ O relatório detalhado, desenvolvido conforme as normas da **ABNT**, está dispo
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-1. Faça o download deste repositório ou clone usando:  
-
-```bash
-git clone https://github.com/paolazchs/Projeto-CienciasdeDados/tree/main
-
 
