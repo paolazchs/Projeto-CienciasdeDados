@@ -32,10 +32,8 @@ Este projeto tem como objetivo aplicar os conceitos de Ciência de Dados com Pyt
 ## 🗄️ Base de Dados
 
 - **Fonte:** OpenDataSUS - Ministério da Saúde  
-- **Link de Acesso à Base:** [🔗 Acessar base de dados](COLE_AQUI_O_LINK_DA_BASE)  
-- **Descrição:** Dados públicos contendo informações sobre vacinação no Brasil (tipos de vacinas, número de doses, estados, datas e faixas etárias).  
-- **Amostragem:** Amostragem estratificada com 50 registros de cada estado selecionado (SP, RJ, MG, BA e RS) para garantir equilíbrio na análise.  
-
+- **Link de Acesso à Base:** [🔗 Acessar base de dados]((https://opendatasus.saude.gov.br/))
+  
 ---
 
 ## 🔍 Tópicos Estatísticos Aplicados
@@ -78,7 +76,7 @@ Este projeto tem como objetivo aplicar os conceitos de Ciência de Dados com Pyt
 O relatório detalhado, desenvolvido conforme as normas da **ABNT**, está disponível no seguinte link:  
 
 - 📑
-[projeto-cd.pdf](https://github.com/user-attachments/files/20842898/projeto-cd.pdf)
+[projeto-cd.pdf](https://github.com/user-attachments/files/20843167/Documento.1.pdf)
 
 ---
 
